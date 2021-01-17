@@ -1,0 +1,6 @@
+C:\Users\Neatan\RiderProjects\Car\Car\obj\Debug\Car.csprojAssemblyReference.cache
+C:\Users\Neatan\RiderProjects\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+C:\Users\Neatan\RiderProjects\Car\Car\bin\Debug\Car.exe
+C:\Users\Neatan\RiderProjects\Car\Car\bin\Debug\Car.pdb
+C:\Users\Neatan\RiderProjects\Car\Car\obj\Debug\Car.exe
+C:\Users\Neatan\RiderProjects\Car\Car\obj\Debug\Car.pdb
