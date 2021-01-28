@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Neatan\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Neatan\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_ConsoleApplication4.-455693815.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Neatan\RiderProjects\Wildberries" t="IncludeFlat">
+      <e p="ConsoleApplication4" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleApplication4.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ConsoleApplication4.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
